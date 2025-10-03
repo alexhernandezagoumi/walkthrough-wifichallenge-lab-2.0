@@ -1,10 +1,9 @@
 # WifiChallengue 2.0 - Complete Writeup
 
-**Author:** Alex Hernández Agoumi\
-**Institution:** CETI
+**Author:** Alex Hernández Agoumi
 
 This repository contains the full walkthrough for the WifiChallengue 2.0
-lab (challenges 1--18).\
+lab (challenges 1--18).
 The goal of this document is to provide clear explanations, properly
 commented commands, and a GitHub-style guide.
 
@@ -285,13 +284,13 @@ The tool reveals the flag.
 
 # Conclusion
 
-This lab demonstrates a wide range of Wi-Fi attacks:\
-- Recon and client identification\
-- Hidden SSID discovery\
-- WEP cracking\
-- WPA handshake capture & cracking\
-- Downgrade attacks (WPA3 → WPA2)\
-- Enterprise (EAP) credential harvesting\
+This lab demonstrates a wide range of Wi-Fi attacks:
+- Recon and client identification
+- Hidden SSID discovery
+- WEP cracking
+- WPA handshake capture & cracking
+- Downgrade attacks (WPA3 → WPA2)
+- Enterprise (EAP) credential harvesting
 - Rogue AP attacks with hostapd/eaphammer
 
 It covers real-world penetration testing techniques against wireless
